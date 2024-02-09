@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "medecine",
+            "database": "db_medecine_ordering",
+            "username": "postgres",
+            "password": "3107"
+        }
+    ]
+}
